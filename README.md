@@ -11,4 +11,4 @@ Our artificial intelligence-based music recommendation system tries to understan
 <img src="https://github.com/BusraaDGN/Recommender_DL/blob/main/predictions.png" width="600" height="500">
 
 
-Dear Members of The Quest:  	 Büşra Doğan     Cihan Yatbaz   Engin Seven 	Mert Sülük    
+Dear Members of The Quest:  	 Büşra Doğan,     Cihan Yatbaz,   Engin Seven, 	Mert Sülük    
