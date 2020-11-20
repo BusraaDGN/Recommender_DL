@@ -8,7 +8,7 @@ A music recommendation system has been developed with our team named “The Ques
 <img src="https://github.com/BusraaDGN/Recommender_DL/blob/main/distiribution.png" width="700" height="700">
 
 Our artificial intelligence-based music recommendation system tries to understand the music that the user likes, based on the music that the user listens. In this way, it recommends the music that the user does not listen to, but may be able to listen many times.
-<img src="https://github.com/BusraaDGN/Recommender_DL/blob/main/predictions.png" width="900" height="900">
+<img src="https://github.com/BusraaDGN/Recommender_DL/blob/main/predictions.png" width="700" height="700">
 
 
-Dear Members of The Quest:  	 Büşra Doğan     Cihan Yatbaz   Mert Sülük    Engin Seven
+Dear Members of The Quest:  	 Büşra Doğan     Cihan Yatbaz   Engin Seven 	Mert Sülük    
